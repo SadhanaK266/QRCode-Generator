@@ -14,15 +14,15 @@
 
 .container h1{
     font-size: 30px;
-    color: #4181bd;
-    font-weight: 400;
+    color: rgb(47, 45, 45);
+    font-weight: 600;
 }
 
 .container label{
     display: block;
     font-size: 14px;
     margin-bottom: 12px;
-    color: #4181bd;
+    color:  rgb(47, 45, 45);
     font-weight: bold;
 }
 .container img{
@@ -33,15 +33,16 @@
     width: 400px;
     height: 30px;
     font-size: 14px;
+    font-weight:500;
     margin-bottom: 12px;
     border-radius: 5px;
-    border: 1px solid #4181bd;
+    border: 2px solid  rgb(47, 45, 45);
 }
 
 .container button{
     height: 40px;
     width: 150px;
-    background-color: #4181bd;
+    background-color:  rgb(47, 45, 45);
     color: white;
     border: none;
     border-radius: 5px;
@@ -49,9 +50,8 @@
 
 
 .buttons .download{
-    background-color: transparent;
-    border: 2px solid #4181bd;
-    color: #4181bd;
+    background-color:  rgb(47, 45, 45);
+    color:  white;
 }
 
 .buttons{
